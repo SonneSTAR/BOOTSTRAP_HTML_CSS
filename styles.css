@@ -1,0 +1,46 @@
+.travels{
+    height: 150px;
+}
+
+#menu ul {
+    text-decoration: none;
+    list-style: none;
+    line-height: 50px;
+    text-align: center;
+    margin: 0px;
+
+
+}
+.titulo{
+    text-align: center;
+}
+.presentacion{
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: aliceblue;
+}
+p{
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+h2{
+    padding-top: 80px;
+}
+.iniciosesion{
+    float: right;
+}
+li{
+    padding:5px;
+}
+.body{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(img/pilares.jpeg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+}
